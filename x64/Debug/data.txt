@@ -1,0 +1,4 @@
+.html=msedge.exe
+.pdb=msedge.exe
+.tlog=code
+.txt=code
